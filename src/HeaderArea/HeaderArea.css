@@ -8,6 +8,11 @@ body{
     margin:0;
     background-color:white;
 }
+.HeaderArea{
+    height:6rem;
+    width:100%;
+    /* margin-left:0px; */
+}
 .Header{
     display:flex;
     align-items:center;
