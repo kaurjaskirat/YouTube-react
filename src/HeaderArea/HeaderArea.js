@@ -2,8 +2,13 @@ import React from 'react'
 import './HeaderArea.css'
 import {FaYoutube} from 'react-icons/fa';
 import {MdSearch,MdVideoCall,MdViewComfy} from 'react-icons/md';
-import{AiTwotoneBell} from 'react-icons/ai'
+import{AiTwotoneBell} from 'react-icons/ai';
+
+
 function HeaderArea(){
+
+
+
     return(
         <body>
         <div className='HeaderArea'>
