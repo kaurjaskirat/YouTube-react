@@ -54,7 +54,7 @@ margin:8px;
 }
 @media screen and (max-width:1280px){
     .MainArea{
-    margin-top:-90%;
+    margin-top:-60%;
 }
 }
 @media screen and (max-width:1200px){
@@ -63,16 +63,7 @@ margin:8px;
     }
     }
 
-    @media screen and (max-width:1715px){
-        .MainArea{
-            margin-top:-60%;
-        }
-        }
-        @media screen and (max-width:1622px){
-            .MainArea{
-                margin-top:-70%;
-            }
-            }
+    
             @media screen and (max-width:1419px){
                 .MainArea{
                     margin-top:-80%;
